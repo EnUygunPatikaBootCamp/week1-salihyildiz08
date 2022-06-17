@@ -25,9 +25,6 @@ Proctected: Bağlı scope ve bulunduğu classı miras alan classlar tarafından 
 Public: Herkes tarafından erişime açıktır. Bağlı olduğu classa oluşturulan nesne ile okunabilir, erişilebilir.
 
 
-
-
-
 SORU 4 )(Abstraction) Soyutlama nedir? 
 
 Gereksiz ayrıntıları göz ardı ederek bir nesnenin yalnızca gerekli özelliklerini belirleme işlevi olarak da nitelendirilebilir. 
