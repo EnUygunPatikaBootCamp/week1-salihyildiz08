@@ -1,0 +1,34 @@
+SORU 1 ) OOP Nedir?
+
+Gerçek hayattaki nesneleri yazılım dünyasına aktarma biçimidir. Örneğin yeni bir araba üretecek bir firmayı düşünelim.
+Somut olarak üretilecek olan arabanın tüm özellik ve fonksiyonlarını ilk olarak yazılıma aktarmak gerekiyor.
+Bu aktarım aşamasının kendisi aslında arabanın tüm özellik ve fonksiyonlarını içerecek olan bir sınıfın oluşturmasıdır. 
+Sınıf tanımlanmasından sonra ise sınıfın tüm özellik ve yeteneklerine sahip olacak her kopyaya ise nesne  diyoruz.
+Ne Amaçla Kullanılır?
+* Nesne oluşturma bir sınıf içerisinde toplanır ve tüm projelerde kullanılabilirliğe olanak sağlar.
+* Kod tekrarından kurtulur
+* Yazılım bakımı kolaylaşır. Bakım maliyeti azalır.
+* Okunabilir kod olur.
+* Bilgi gizliliği açısından avantaj sağlar
+
+SORU 2 ) Polymorphism ne amaçlı kullanılır? 
+* Kodun yeniden kullanılabilirliğini artırır.
+* Tekrar tekrar kod yazımını engeller.
+* Bir işlemin birden fazla yol ile gerçekleştirilebilmesine olanak sağlar.
+
+SORU 3)Bir metodun private, protected ya da public olması kavramlarını açıklayınız. 
+
+Private: Sadece bağlı olduğu scope arasında okunabilir, erişelebilir.
+
+Proctected: Bağlı scope ve bulunduğu classı miras alan classlar tarafından okunabilir, erişelebilir.
+
+Public: Herkes tarafından erişime açıktır. Bağlı olduğu classa oluşturulan nesne ile okunabilir, erişilebilir.
+
+
+
+
+
+SORU 4 )(Abstraction) Soyutlama nedir? 
+
+Gereksiz ayrıntıları göz ardı ederek bir nesnenin yalnızca gerekli özelliklerini belirleme işlevi olarak da nitelendirilebilir. 
+Bir bilgisayarı kullanan bir kişiyi düşünün, bilgisayarı kullanan kişi yalnızca bilgisayarı kullanır ancak arka planda ne gibi işlemlerin döndüğünü bilemez.
